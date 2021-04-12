@@ -1,4 +1,4 @@
-Hello, qa.guru students!
+Hello, qa.guru students
 
 
 Some text from develop branch
